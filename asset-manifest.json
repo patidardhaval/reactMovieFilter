@@ -1,15 +1,25 @@
 {
-  "main.css": "/patidardhaval/react/static/css/main.96fffb25.chunk.css",
-  "main.js": "/patidardhaval/react/static/js/main.07b4d2af.chunk.js",
-  "main.js.map": "/patidardhaval/react/static/js/main.07b4d2af.chunk.js.map",
-  "runtime~main.js": "/patidardhaval/react/static/js/runtime~main.0a62658f.js",
-  "runtime~main.js.map": "/patidardhaval/react/static/js/runtime~main.0a62658f.js.map",
-  "static/css/2.0ad114bc.chunk.css": "/patidardhaval/react/static/css/2.0ad114bc.chunk.css",
-  "static/js/2.721e0f2a.chunk.js": "/patidardhaval/react/static/js/2.721e0f2a.chunk.js",
-  "static/js/2.721e0f2a.chunk.js.map": "/patidardhaval/react/static/js/2.721e0f2a.chunk.js.map",
-  "index.html": "/patidardhaval/react/index.html",
-  "precache-manifest.d1eeb60d1b7e0366ba04b64f30715a3d.js": "/patidardhaval/react/precache-manifest.d1eeb60d1b7e0366ba04b64f30715a3d.js",
-  "service-worker.js": "/patidardhaval/react/service-worker.js",
-  "static/css/2.0ad114bc.chunk.css.map": "/patidardhaval/react/static/css/2.0ad114bc.chunk.css.map",
-  "static/css/main.96fffb25.chunk.css.map": "/patidardhaval/react/static/css/main.96fffb25.chunk.css.map"
+  "files": {
+    "main.css": "/reactMovieFilter/static/css/main.827f243d.chunk.css",
+    "main.js": "/reactMovieFilter/static/js/main.94311cbd.chunk.js",
+    "main.js.map": "/reactMovieFilter/static/js/main.94311cbd.chunk.js.map",
+    "runtime-main.js": "/reactMovieFilter/static/js/runtime-main.9255a39c.js",
+    "runtime-main.js.map": "/reactMovieFilter/static/js/runtime-main.9255a39c.js.map",
+    "static/css/2.69121389.chunk.css": "/reactMovieFilter/static/css/2.69121389.chunk.css",
+    "static/js/2.040a9e6e.chunk.js": "/reactMovieFilter/static/js/2.040a9e6e.chunk.js",
+    "static/js/2.040a9e6e.chunk.js.map": "/reactMovieFilter/static/js/2.040a9e6e.chunk.js.map",
+    "index.html": "/reactMovieFilter/index.html",
+    "precache-manifest.0263a509ddd9687b34605fe9533cdd39.js": "/reactMovieFilter/precache-manifest.0263a509ddd9687b34605fe9533cdd39.js",
+    "service-worker.js": "/reactMovieFilter/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/reactMovieFilter/static/css/2.69121389.chunk.css.map",
+    "static/css/main.827f243d.chunk.css.map": "/reactMovieFilter/static/css/main.827f243d.chunk.css.map",
+    "static/js/2.040a9e6e.chunk.js.LICENSE.txt": "/reactMovieFilter/static/js/2.040a9e6e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9255a39c.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.040a9e6e.chunk.js",
+    "static/css/main.827f243d.chunk.css",
+    "static/js/main.94311cbd.chunk.js"
+  ]
 }
