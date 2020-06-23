@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://patidardhaval.github.io/reactMovieFilter/).
+This project was bootstrapped with [Demo](https://patidardhaval.github.io/reactMovieFilter/).
 
 ## Available Scripts
 
